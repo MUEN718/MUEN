@@ -1,8 +1,8 @@
 {
-    "name": "MUEN-StakePool,",
-    "description": "Operated by Muen-project.水中写真NFTを通して日本の海を伝える活動を行っています。海、山などのアウトドア活動、ゲストハウス運営アドバイザーも行っています,",
-    "ticker": "MUEN,",
+    "name": "MUEN3 CharityPrivatePool,",
+    "description": "認定NPO法人や地方自治体・福祉施設や自然保護団体など社会貢献活動をしている方々のお役に立ちたいとの思いから作ったプールです,",
+    "ticker": "MUEN3",
     "homepage": "https://muen-project.com/",
-    "extended": "bit.ly/3gFxBx6",
-    "nonce":"1705295679"
+    "extended": "",
+    "nonce":"1705304374"
 }
