@@ -1,7 +1,5 @@
-{
-"name": "MUEN-StakePool",
-"description": "Operated by Muen-project.水中写真NFTを通して日本の海を伝える活動を行っています。海、山などのアウトドア活動、ゲストハウス運営アドバイザーも行っています.",
-"ticker": "MUEN",
-"homepage":"https://muen-project.com/",
-"extended":"bit.ly/3gFxBx6" 
-}
+name='MUEN-StakePool'
+description='Operated by Muen-project.水中写真NFTを通して日本の海を伝える活動を行っています。海、山などのアウトドア活動、ゲストハウス運営アドバイザーも行っています'
+ticker='MUEN'
+homepage='https://muen-project.com/'
+extended='bit.ly/3gFxBx6'
